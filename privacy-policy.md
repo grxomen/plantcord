@@ -28,7 +28,7 @@ Data is stored as long as necessary for bot operation and can be deleted on requ
 
 ---
 
-For concerns, email us at darknebai@gmail.com or message a Plantty developer in your server.
+For concerns, reach out to Forge here or message a Plantty developer in your server.
 
 ---
 
