@@ -30,4 +30,4 @@ This bot is provided “as is” with no guarantees. We are not liable for how o
 
 ---
 
-If you have questions, DM a server admin or reach out at darknebai@gmail.com.
+If you have questions, DM a server admin or reach out to Forge here.
